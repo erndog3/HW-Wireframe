@@ -90,7 +90,8 @@ body {
 	height: 250px;
 	width: 455px;
 	margin-top: 20px;
-	float: left;
+	float: right;
+	margin-top: -185px;
 	
 }
 	
@@ -100,6 +101,6 @@ body {
 	color: #777;
 	text-align: center;
 	padding: 20px;
-	margin-top: 20px;
+	margin-top: 80px;
 }
 
